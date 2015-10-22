@@ -1,0 +1,1 @@
+# delcampshortcut.github.io
