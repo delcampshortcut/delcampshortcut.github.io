@@ -1,3 +1,12 @@
+a:link    {color:black; background-color:transparent; text-decoration:none}
+a:visited {color:black; background-color:transparent; text-decoration:none}
+a:hover   {color:black; background-color:transparent; text-decoration:underline}
+a:active  {color:black; background-color:transparent; text-decoration:underline}
+
+.bwhite{
+    background-color: white;
+    color:black;
+}
 .video-container {
     position: relative;
     padding-bottom: 56.25%;
